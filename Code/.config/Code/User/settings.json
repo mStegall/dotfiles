@@ -1,0 +1,11 @@
+{
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.minimap.enabled": false
+}
